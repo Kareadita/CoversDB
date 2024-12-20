@@ -154,6 +154,7 @@ Beta 3|comics/Beta 3.png
 Big Balloon|comics/Big Balloon.png
 Big City Comics|comics/Big City Comics.png
 Big Dog Ink|comics/Big Dog Ink.png
+bilibili|manga/bilibili.png
 BKR Comics|comics/BKR Comics.png
 Black ball Comics|comics/Black ball Comics.png
 Black Bull|comics/Black Bull.png
@@ -169,6 +170,7 @@ Blu Manga|comics/Blu Manga.png
 Blue King Studios|comics/Blue King Studios.png
 Bluewater Productions|comics/Bluewater Productions.png
 Bodog|comics/Bodog.png
+Bomtoon|manga/bomtoon.png
 Bongo#Bongo Entertainment|comics/Bongo.png
 Bonnier Carlsen|comics/Bonnier Carlsen.png
 BOOM Kids!#Boom! Kids#Boom Kids|comics/BOOM Kids!.png
@@ -442,6 +444,7 @@ Pipoca & Nanquim|comics/Pipoca & Nanquim.png
 Planeta Cómic|comics/Planeta Cómic.png
 Planeta DeAgostini|comics/Planeta DeAgostini.png
 Platinum Studios Comics|comics/Platinum Studios Comics.png
+Pocket Comics|manga/pocket-comics.png
 Ponent Mon#Ponent-Mon-Destacada|comics/Ponent Mon.png
 Postype|manga/postype.png
 Presse Aventure|comics/Presse Aventure.png
