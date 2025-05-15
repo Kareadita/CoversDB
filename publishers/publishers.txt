@@ -220,6 +220,7 @@ Chronicle Books|comics/Chronicle Books.png
 Chuang Yi|comics/Chuang Yi.png
 Cinebook|comics/Cinebook.png
 Cinebooks|comics/Cinebooks.png
+Class Comics|comics/Class Comics.png
 Cliffhanger|comics/Cliffhanger.png
 CMX|comics/CMX.png
 Coffin Comics|comics/Coffin Comics.png

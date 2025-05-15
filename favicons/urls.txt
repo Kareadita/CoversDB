@@ -13,6 +13,7 @@ bomtoon.com.png
 booklive.jp.png
 bookwalker.jp.png
 cdjapan.co.jp.png
+classcomics.com.png
 cmoa.jp.png
 comic-action.com.png
 comic-days.com.png
