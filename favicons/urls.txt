@@ -327,6 +327,7 @@ hackgul.bn-ent.net.png
 hanamaru.jp.png
 hanashi.media.png
 hanatsubaki.shiseido.com.png
+hardcover.app.png
 hayatenogotoku.wikia.com.png
 hbomax.com.png
 hearty25.postype.com.png
@@ -1243,3 +1244,4 @@ zbfghk.org.png
 zerosumonline.com.png
 zh.wikipedia.org.png
 zoids.fandom.com.png
+
