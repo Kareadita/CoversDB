@@ -579,3 +579,5 @@ Summer Salt|manga/summer salt.png
 2D Market|manga/2d market.png
 Denpasoft|manga/denpasoft.png
 AK 커뮤니케이션즈|manga/AK 커뮤니케이션즈.png
+S노벨#S노벨 플러스|books/S노벨.jpg
+노블엔진|books/노블엔진.jpg
