@@ -580,4 +580,10 @@ Summer Salt|manga/summer salt.png
 Denpasoft|manga/denpasoft.png
 AK 커뮤니케이션즈|manga/AK 커뮤니케이션즈.png
 S노벨#S노벨 플러스|books/S노벨.jpg
-노블엔진|books/노블엔진.jpg
+노블엔진#노블엔진 팝|books/노블엔진.jpg
+SL COMIC|manga/SL COMIC.png
+대원씨아이#대원씨아이(만화)#대원씨아이(주)#대원씨아이/DCW#|manga/대원씨아이.png
+레진코믹스#레진엔터테인먼트|manga/레진코믹스.png
+학산문화사#학산문화사/DCW|manga/학산문화사.png
+서울미디어코믹스#서울미디어코믹스(서울문화사)#서울미디어코믹스/DCW|manga/서울미디어코믹스.png
+시공사#시공사/DCW|manga/시공사.jpg
