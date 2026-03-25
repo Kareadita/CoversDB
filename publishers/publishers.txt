@@ -506,6 +506,7 @@ Storm King Comics|comics/Storm King Comics.png
 Super Genius Comics|comics/Super Genius Comics.png
 Super Nova Produções#Super Nova|comics/Super Nova Produções.png
 Tangent|comics/Tangent.png
+Tapas|manga/Tapas.png
 Taschen|comics/Taschen.png
 Tekno Comix|comics/Tekno Comix.png
 Ten Speed Press|comics/Ten Speed Press.png
