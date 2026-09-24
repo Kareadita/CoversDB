@@ -13,6 +13,7 @@
 A D Vision|comics/A D Vision.png
 A List Comics|comics/A List Comics.png
 A Wave Blue World|comics/A Wave Blue World.png
+Akita Shoten#秋田書店|manga/Akita Shoten.png
 A-Plus|comics/A-Plus.png
 A.M. Works|comics/A.M. Works.png
 A.R.C.|comics/A.R.C..png
@@ -182,6 +183,7 @@ Broadsword Comics|comics/Broadsword Comics.png
 Broadway|comics/Broadway.png
 Broken Tree Comics|comics/Broken Tree Comics.png
 Bulletproof Comics|comics/Bulletproof Comics.png
+Bunkasha#ぶんか社|manga/Bunkasha.png
 Bunte Dimensionen|comics/Bunte Dimensionen.png
 Burlyman Entertainment|comics/Burlyman Entertainment.png
 Cackling Imp Press|comics/Cackling Imp Press.png
@@ -319,7 +321,7 @@ Four Star Comic Corp.#Four Star Publications|comics/Four Star Comic Corp..png
 Four Walls Eight Windows|comics/Four Walls Eight Windows.png
 Fox Atomic Comics|comics/Fox Atomic Comics.png
 Fox Feature Syndicate|comics/Fox Feature Syndicate.png
-Futabasha|manga/Futabasha.png
+Futabasha#双葉社|manga/Futabasha.png
 Gemstone#Gemstone Publishing|comics/Gemstone.png
 GG Studio|comics/GG Studio.png
 Gladstone#Gladstone Publishing|comics/Gladstone.png
@@ -342,7 +344,7 @@ HeavyMetal#Heavy Metal#Heavy Metal Comics|comics/HeavyMetal.png
 Hero Initiative|comics/Hero Initiative.png
 Hill and Wang|comics/Hill and Wang.png
 Homage comics|comics/Homage comics.png
-Houbunsha#Hobunsha|manga/houbunsha.png
+Houbunsha#Hobunsha#芳文社|manga/houbunsha.png
 Houghton Mifflin#Houghton Mifflin Harcourt|comics/Houghton Mifflin.png
 Humanoids|comics/Humanoids.png
 I Box Publishing|comics/I Box Publishing.png
@@ -391,6 +393,7 @@ Mad Cave#Mad Cave Studios|comics/Mad Cave.png
 Mad Fabrik|comics/Mad Fabrik.png
 Mad Love#Mad Love Publishing|comics/Mad Love.png
 Mad|comics/Mad.png
+Mag Garden#マッグガーデン|manga/Mag Garden.png
 Magazine Enterprises|comics/Magazine Enterprises.png
 Magnetic Press|comics/Magnetic Press.png
 Malibu|comics/Malibu.png
@@ -424,6 +427,7 @@ Mythos Editora|comics/Mythos Editora.png
 Nbm|comics/Nbm.png
 New England Comics|comics/New England Comics.png
 New Realm|comics/New Realm.png
+Nihon Bungeisha#日本文芸社|manga/Nihon Bungeisha.png
 No Lands Productions|comics/No Lands Productions.jpg
 No Lands Productions|comics/No Lands Productions.png
 Norma Editorial|comics/Norma Editorial.png
@@ -502,9 +506,11 @@ Standard|comics/Standard.png
 Star Comics|comics/Star Comics.png
 Star Publications|comics/Star Publications.png
 Starhead Comix|comics/Starhead Comix.png
+Starts Publishing#スターツ出版|manga/Starts Publishing.png
 Storm King Comics|comics/Storm King Comics.png
 Super Genius Comics|comics/Super Genius Comics.png
 Super Nova Produções#Super Nova|comics/Super Nova Produções.png
+Takeshobo#竹書房|manga/Takeshobo.png
 Tangent|comics/Tangent.png
 Tapas|manga/Tapas.png
 Taschen|comics/Taschen.png
@@ -524,6 +530,7 @@ Titan Comics|comics/Titan Comics.png
 Titan Magazines|comics/Titan Magazines.png
 Titan#Titan Comics|comics/Titan.png
 TKO Studios|comics/TKO Studios.png
+TO Books#TOブックス|manga/TO Books.png
 Toby Press|comics/Toby Press.png
 Tokyopop|manga/Tokyopop.png
 Top Cow|comics/Top Cow.png
